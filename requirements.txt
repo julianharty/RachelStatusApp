@@ -1,0 +1,9 @@
+Requirements
+
+Check that we're actually on a 'RACHEL' network (although the content could be on another, known WiFi network). Perhaps we couldadd a thisisarachelserver file on the server so that we have greater confidence that the server is what we expect rather than just assuming the default gateway is the RACHEL server.
+
+Don't silently swap from the existing WiFi especially if it's got Internet connectivity. We might cause more confusion and/or frustration for users of this app otherwise. The primary audience seems to be users who don't currently have a WiFi connection or who only connect to a RACHEL WiFi.
+
+Cope and allow the user to decide which RACHEL network to use if there's more than one.
+
+Provide a polling capability. Possibly add an editor (content uploader) and an admin mode? However these may be more suitable as separate apps.  
